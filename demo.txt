@@ -4,4 +4,3 @@ This is demo file.
         3. grapes
         4. cherry
         5. papaya
-        6. tomato
